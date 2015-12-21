@@ -11,3 +11,7 @@
 7. press the region and dragging -> move the region
 8. can resize a region, click and drag the ends of the region
 9. "DONE"click -> app termination
+
+You get the mp4 file in the "video" folder and now put into the tizen machine.
+(put into DCIM folder)
+You can only run mp4 files which in the "video" folder.
